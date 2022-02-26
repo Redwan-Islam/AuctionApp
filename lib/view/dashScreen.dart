@@ -40,7 +40,7 @@ class _dashScreenState extends State<dashScreen> {
         crossAxisCount: 2,
         crossAxisSpacing: 2,
         mainAxisSpacing: 2,
-        childAspectRatio: 0.55,
+        childAspectRatio: 0.50,
         children: _productProvider.productList
             .map((product) => ProductItem(product))
             .toList(),
