@@ -16,3 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <img src = 'https://github.com/Redwan-Islam/AuctionApp/blob/main/preview/auction.gif' width = 350, height = 600>
+
+#App State
+-Create a FLutter Project.
+-Initialize Firebase With My Project.
+-Create a Login And SignUp Screen. 
+-Create a DashScreen. 
+-Create Info List. 
+-And Bid UI.
